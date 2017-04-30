@@ -1,2 +1,2 @@
-# ibek
+# IBEK
 Inkubator Bisnis Ekonomi Kreatif
